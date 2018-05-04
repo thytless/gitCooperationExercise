@@ -24,7 +24,7 @@ Some necessary configurations.
 - `git config --global user.email <Your Email Address>`
 - `git config --global core.autocrlf true` : if on Windows, just do it.
 
-Caution: `--global` option will change the global git configuration on your computer, e.g on Windows, in "C:\Users\???\.gitconfig".
+Caution: `--global` option will change the global git configuration on your computer, e.g on Windows, in "C:\\Users\\???\\.gitconfig".
 
 - `git remote add origin <url>` : add a new remote repo named origin
 
