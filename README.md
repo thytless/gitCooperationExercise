@@ -20,9 +20,13 @@ Our remote repo : git@github.com:thytless/gitCooperationExercise.git
 ### Step 4
 Some necessary configurations.
 
-- `git remote add origin <url>` : add a new remote repo named origin
-
+- `git config --global user.name "<Your Name>"`
+- `git config --global user.email <Your Email Address>`
 - `git config --global core.autocrlf true` : if on Windows, just do it.
+
+Caution: `--global` option will change the global git configuration on your computer, e.g on Windows, in "C:\Users\???\.gitconfig".
+
+- `git remote add origin <url>` : add a new remote repo named origin
 
 ## Mission 2
 Try git commands with some text work.
