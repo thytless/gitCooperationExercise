@@ -1,9 +1,9 @@
-# gitCooperationExercise
+# gitCooperationExercise #
 Finish this tutorial with **bash commands** is recommended, while you can use  **GUI** as well. 
 
 Just enjoy it.:)
 
-##Mission 1
+## Mission 1 ##
 ### Step 1
 Install Git.
 
