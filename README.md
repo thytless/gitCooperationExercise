@@ -28,8 +28,13 @@ Some necessary configurations.
 Try git commands with some text work.
 Now we have `reqdoc4.0.md` in our repo, use your favorite editor to add more discriptions.
 
+- `git add <filename>` : add this file to index.Necessary before commit.
 - `git commit -m "<message>"`  : commit your change with a concluding message.
 - `git checkout -- <filename>` : abandon all changes made to this file since last commit.
+
+[Learn more](https://git-scm.com/book/zh/v2/Git-%E5%9F%BA%E7%A1%80-%E8%AE%B0%E5%BD%95%E6%AF%8F%E6%AC%A1%E6%9B%B4%E6%96%B0%E5%88%B0%E4%BB%93%E5%BA%93)
+
+
  
 
 
