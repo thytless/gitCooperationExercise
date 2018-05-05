@@ -350,7 +350,7 @@
 
 登录预览：
 
-![](pic\login_example.PNG)
+![](https://github.com/thytless/gitCooperationExercise/raw/master/pic/login_example.PNG)
 
  
 
