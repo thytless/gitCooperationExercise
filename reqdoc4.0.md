@@ -113,6 +113,8 @@
 
 #### 3.1.1 主页
 
+![](https://github.com/thytless/gitCooperationExercise/raw/master/pic/homepage.PNG)
+
 ##### 3.1.1.1 回到首页
 
 点击导航栏上的首页按钮，或者左上角的logo
