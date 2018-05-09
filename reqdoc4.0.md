@@ -305,6 +305,10 @@
 
 #### 3.2.1 共有功能
 
+右菜单栏预览： 
+
+![](https://github.com/thytless/gitCooperationExercise/raw/master/pic/common_example.PNG)
+
 ##### <a id="h3211">3.2.1.1 用户注册</a>
 
 在首页登录界面选择注册账户进入用户注册。用户注册需要提交包含以下信息的表单：
@@ -412,6 +416,10 @@
 管理员功能包括维护者功能与审核者功能，其流程关系如下
 
 ![](https://github.com/thytless/gitCooperationExercise/raw/master/pic/verification_model.PNG)
+
+右菜单栏预览： 
+
+![](https://github.com/thytless/gitCooperationExercise/raw/master/pic/admin_example.PNG)
 
 ##### 3.2.2.1 修改网页内容
 
