@@ -758,9 +758,7 @@ bug。
 
 
 ## 4	环境规定
-
 ### 4.1	开发环境
-
 服务器软件语言： Java
 
 客户端软件语言：html, css, javascript
@@ -782,5 +780,4 @@ ORM： spring data jpa  和 mybatis
 项目构建：apache maven
 
 ### 4.2 运行环境
-
 Windows系统下浏览器
